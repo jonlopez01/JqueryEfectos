@@ -1,0 +1,60 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    /* outline: 1px solid red; */
+}
+
+.main{
+    width: 95%;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+    min-height: 1000px;
+}
+
+
+button{
+    display: inline-block;
+    width: 100%;
+    margin-top: 100px;
+}
+
+p{
+    display: inline-block;
+}
+
+
+.pStyle{
+    background-color: aqua;
+    padding: 20px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mediaquery */
+/* @media only screen and (max-width: 480px){
+
+}
+
+
+@media (min-width: 481px) and (max-width: 1023px){
+
+}
+
+@media (min-width: 1024px){
+
+} */
